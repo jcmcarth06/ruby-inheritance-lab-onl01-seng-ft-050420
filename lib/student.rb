@@ -8,7 +8,7 @@ def knowledge
   @knowledge
 end
 
-def learn(knowlege)
+def learn(knowledge)
   @knowledge << knowledge
 end
 
